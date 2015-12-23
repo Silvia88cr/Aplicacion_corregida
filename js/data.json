@@ -1,0 +1,64 @@
+[ 
+    {
+		 "nombre":"Nombre: Aerosmith",
+		 "shortname":"aerosmith",
+	     "album":"Album: Greatest Hits",
+	     "genero":" Genero: Rock"
+	    
+    },
+    {
+		"nombre":"Nombre: Aterciopelados",
+		"shortname":"aterciopelados",
+		"album":"Album: El Dorado",
+		"genero":"Genero: Rock en Español"
+	},
+	{
+		"nombre":"Nombre: The Cranberries",
+		"shortname":"cranberries",
+	 	"album":"Album: Stars",
+	 	"genero":"Genero: Rock Alternativo"
+	},
+	{
+	    "nombre":"Nombre: Heroes del Silencio",
+	    "shortname":"heroes",
+	    "album":"Album: Rarezas",
+		"genero":"Genero: Rock"
+	},
+	{
+		"nombre":"Nombre: Queen",
+		"shortname":"queen",
+		"album":"Album: A Kind of Magic",
+		"genero":"Genero: Rock"
+	},
+	{
+	    "nombre":"Nombre: Iron Maiden",
+	    "shortname":"maiden",
+		"album":"Album: Fear of the Dark",
+		"genero":"Genero: Rock"
+	},
+	{
+		 "nombre":"Nombre: Metallica",
+		 "shortname":"metallica",
+	     "album":"Album: Black Album",
+	     "genero":"Genero: Rock"
+    },
+    {
+		"nombre":"Nombre: Nirvana",
+		"shortname":"nirvana",
+		"album":"Album: Nevermind",
+		"genero":"Genero: Rock"
+	},
+	{
+
+	    "nombre":"Nombre: Radiohead",
+	    "shortname":"radiohead",
+		"album":"Album: Pablo Honey",
+		"genero":"Genero: Rock"
+	},
+	{   
+		"nombre":"Nombre:Soda Stereo",
+		"shortname":"soda_estereo",
+		"album":"Album: Confort y Musica para Volar",
+	    "genero":"Genero:Rock"
+	}
+]		

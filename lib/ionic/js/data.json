@@ -1,0 +1,56 @@
+{"Data":[
+
+    {   "nombre":"Aerosmith",
+        "album":"Rocks" ,
+        "genero":"Rock" 
+
+    },
+    {
+		"nombre":"Aterciopelados",
+		"album":"El Dorado",
+		"genero":"Rock"
+	},
+	{
+		"nombre":"The Cranberries",
+	 	"album":"Stars",
+	 	"genero":"Rock Alternativo"
+	},
+	
+	{
+	    "nombre":"Heroes del Silencio",
+	    "album":"Rarezas",
+		"genero":"Rock"
+	},
+	{
+		"nombre":"Queen",
+		"album":"A Kind of Magic",
+		"genero":"Rock"
+	},
+	{
+	    "nombre":"Iron Maiden",
+		"album":"Fear of the Dark",
+		"genero":"Rock"
+	},
+	{
+		 "nombre":"Metallica",
+	     "album":"Black",
+	     "genero":"Rock"
+    },
+    {
+		"nombre":"Nirvana",
+		"album":"Nevermind",
+		"genero":"Rock"
+	},
+	{
+
+	    "nombre":"Radiohead",
+		"album":"Pablo Honey",
+		"genero":"Rock"
+	}
+	{   
+		"nombre":"Soda Stereo",
+		"album":"El ultimo Concierto",
+	    "genero":"Rock"
+	}	
+	
+]}

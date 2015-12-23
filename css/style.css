@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+
+.star>.item-content {
+	background-color: #FF0000 !important; 
+}
+
+.splash{
+	background: url(../img/fondo.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
+	background-size: cover; 
+
+}
+
+.logotipo{
+	width: 50%;
+	max-width: 200px;
+	margin: 0 auto;
+	margin-top: -10px; 
+	text-align: center;
+}
